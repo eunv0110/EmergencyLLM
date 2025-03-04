@@ -106,7 +106,7 @@
 ### 📊 파이프라인 모듈화 구조
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/2d9905e7-6b1b-4757-afb6-93fc90320eb8" alt="파이프라인 모듈화 구조" width="800px" />
+  <img src="https://github.com/user-attachments/assets/3f887855-72c4-4664-9135-55ca67e82cfb" alt="파이프라인 모듈화 구조" width="800px" />
 </div>
 
 위 그림은 응급상황 자동 인식 및 응급실 연계 서비스의 전체 파이프라인을 보여줍니다. 각 모듈은 다음과 같은 역할을 수행합니다:
