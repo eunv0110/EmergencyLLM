@@ -183,9 +183,10 @@
 - 혼동 행렬(Confusion Matrix) 분석 결과:
   - 1~5등급 분류에서 높은 정확도 달성
   - 특히 1~3등급(응급 상황)과 4~5등급(비응급 상황) 구분에서 우수한 성능
-
+    
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/put-confusion-matrix-image-id-here" alt="BERT 모델 혼동 행렬" width="500px" />
+
+  <img src="https://github.com/user-attachments/assets/00d21121-856a-4cb0-8ed8-8a0636d97ec5" alt="BERT 모델 혼동 행렬" width="800px" />
 </div>
 
 <br>
