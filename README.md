@@ -1,7 +1,6 @@
 # 🚨 응급상황 자동 인식 및 응급실 연계 서비스
-
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/put-your-image-id-here" alt="응급상황 서비스 로고" width="500px" />
+  <img src="https://github.com/user-attachments/assets/867b8b2f-6a96-4834-b7d5-edc4426c6772" alt="응급상황 서비스 로고" width="500px" />
   <br><br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
