@@ -67,7 +67,7 @@
 본 프로젝트는 다음과 같은 3단계 절차로 구성되어 있습니다:
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/put-system-architecture-image-id-here" alt="시스템 구성도" width="800px" />
+  <img src="https://github.com/user-attachments/assets/356d4114-74d4-419b-bb48-c39664ea94c5" alt="시스템 구성도" width="800px" />
 </div>
 
 1. **음성 인식 및 요약(1단계)**: 응급 전화 음성을 텍스트로 변환하고 핵심 정보 요약
