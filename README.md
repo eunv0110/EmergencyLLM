@@ -48,7 +48,7 @@
 - 🔹 **경증 환자 응급실 과밀화**: 2020년~2024년 7월까지 응급실에 내원한 4, 5등급 환자의 주요 진단명은 감염성 위장염 및 대장염(78만여 건), 복부 및 골반 통증(73만여 건), 손목 및 손의 열린 상처(68만여 건) 등 비응급 사례가 다수
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/put-emergency-stats-image-id-here" alt="응급실 내원 환자 중증도 분류 통계" width="600px" />
+  <img src="https://github.com/user-attachments/assets/874c7fde-cdb2-433e-809a-4049055a0959" alt="응급실 내원 환자 중증도 분류 통계" width="600px" />
 </div>
 
 <br>
