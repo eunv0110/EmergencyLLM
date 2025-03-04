@@ -77,7 +77,9 @@
 <br>
 
 ## 🏥 한국 응급환자 중증도 분류 기준 (KTAS)
-
+<div align="center">
+  <img width="600" alt="스크린샷 2025-03-05 오전 12 54 50" src="https://github.com/user-attachments/assets/dc6a3e6b-76e7-4d65-810d-37c5f18112b5" />
+</div>
 응급환자의 중증도 분류를 위해 한국 응급환자 중증도 분류기준(Korean Triage and Acuity Scale, KTAS)을 활용하였습니다. 이 기준은 보건복지부고시(제2023-287호, 2023.12.28. 시행 2024.1.1)에 의해 규정되어 있습니다.
 
 ### 중증도 등급 분류
@@ -102,9 +104,7 @@
 - 2022년: 53.4%
 - 2023년: 51.8%(잠정치)
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/put-ktas-image-id-here" alt="응급실 내원 환자 분류 기준" width="600px" />
-</div>
+
 
 <br>
 
