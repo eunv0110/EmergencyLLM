@@ -38,28 +38,58 @@
 
 <br>
 
-### 응급 상황의 현실적 문제점:
+## 🏥 응급 의료 현황 분석
 
-- 🔹 **응급실 상황 확인에 시간 소요**: 병실 여유가 있는 응급실을 찾는데 시간이 지체됨
-- 🔹 **제한된 응급실 자원**: 응급실 병상은 항상 부족한 상황
-- 🔹 **응급 환자 분류의 어려움**: 실제 응급환자가 아닌 경우에도 응급실에 입원하는 사례가 많음
-- 🔹 **중증 응급환자 적정 치료 저해**: 국회 보건복지위원회 자료에 따르면, 2020년부터 2023년까지 4년간 응급실 내원 환자 중 준응급 및 비응급(4, 5등급) 환자의 비율이 평균 53.3%로 절반 이상을 차지
-- 🔹 **경증 환자 응급실 과밀화**: 2020년~2024년 7월까지 응급실에 내원한 4, 5등급 환자의 주요 진단명은 감염성 위장염 및 대장염(78만여 건), 복부 및 골반 통증(73만여 건), 손목 및 손의 열린 상처(68만여 건) 등 비응급 사례가 다수
+### 🚑 응급 상황의 현실적 문제점
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/874c7fde-cdb2-433e-809a-4049055a0959" alt="응급실 내원 환자 중증도 분류 통계" width="600px" />
+  <p><small><i>응급실 내원 환자 중증도 분류 통계 (2020-2023)</i></small></p>
 </div>
 
-<br>
+<table>
+  <tr>
+    <td width="60px" align="center">🕒</td>
+    <td><b>응급실 상황 확인에 시간 소요</b>: 병실 여유가 있는 응급실을 찾는데 시간이 지체됨</td>
+  </tr>
+  <tr>
+    <td align="center">🛏️</td>
+    <td><b>제한된 응급실 자원</b>: 응급실 병상은 항상 부족한 상황</td>
+  </tr>
+  <tr>
+    <td align="center">🔍</td>
+    <td><b>응급 환자 분류의 어려움</b>: 실제 응급환자가 아닌 경우에도 응급실에 입원하는 사례가 많음</td>
+  </tr>
+  <tr>
+    <td align="center">⚠️</td>
+    <td><b>중증 응급환자 적정 치료 저해</b>: 국회 보건복지위원회 자료에 따르면, 2020년부터 2023년까지 4년간 응급실 내원 환자 중 준응급 및 비응급(4, 5등급) 환자의 비율이 평균 53.3%로 절반 이상을 차지</td>
+  </tr>
+  <tr>
+    <td align="center">👥</td>
+    <td><b>경증 환자 응급실 과밀화</b>: 2020년~2024년 7월까지 응급실에 내원한 4, 5등급 환자의 주요 진단명은 감염성 위장염 및 대장염(78만여 건), 복부 및 골반 통증(73만여 건), 손목 및 손의 열린 상처(68만여 건) 등 비응급 사례가 다수</td>
+  </tr>
+</table>
 
-### 응급 상황 자동 인식이 중요한 이유:
+### 🔄 응급 상황 자동 인식의 중요성
 
-- 🔹 **빠른 판단**: 응급 상황의 신속한 인식과 중증도 분류
-- 🔹 **신속한 이송**: 환자 상태와 위치에 맞는 최적의 응급실로 빠르게 이송
-- 🔹 **자원의 효율적 분배**: 응급 등급에 따른 의료 자원의 효율적 활용
-- 🔹 **최적 경로 선택**: 교통 상황을 고려한 최적의 응급실 추천
-
-<br>
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 15px;">
+  <div style="flex: 1; min-width: 250px; border: 1px solid #ddd; border-radius: 8px; padding: 15px; background-color: #f9f9f9;">
+    <h4 align="center">⚡ 빠른 판단</h4>
+    <p>응급 상황의 신속한 인식과 중증도 분류를 통해 생명을 구하는 골든타임 확보</p>
+  </div>
+  <div style="flex: 1; min-width: 250px; border: 1px solid #ddd; border-radius: 8px; padding: 15px; background-color: #f9f9f9;">
+    <h4 align="center">🚑 신속한 이송</h4>
+    <p>환자 상태와 위치에 맞는 최적의 응급실로 빠르게 이송하여 적시 치료 가능</p>
+  </div>
+  <div style="flex: 1; min-width: 250px; border: 1px solid #ddd; border-radius: 8px; padding: 15px; background-color: #f9f9f9;">
+    <h4 align="center">⚖️ 자원의 효율적 분배</h4>
+    <p>응급 등급에 따른 의료 자원의 효율적 활용으로 의료 시스템 최적화</p>
+  </div>
+  <div style="flex: 1; min-width: 250px; border: 1px solid #ddd; border-radius: 8px; padding: 15px; background-color: #f9f9f9;">
+    <h4 align="center">🗺️ 최적 경로 선택</h4>
+    <p>교통 상황을 고려한 최적의 응급실 추천으로 이송 시간 단축</p>
+  </div>
+</div>
 
 ## 🔍 시스템 구성
 
@@ -161,7 +191,7 @@
 
 <br>
 
-## 🧠 데이터셋
+## ✅ 데이터셋
 
 ### 1. 응급상황 음성 데이터
 - 제공된 응급상황 샘플 음성 파일 5개
@@ -194,8 +224,8 @@
   - 정확도(Accuracy): 0.95 이상
   - 각 등급별 정밀도(Precision) 및 재현율(Recall): 0.90 이상
 - 혼동 행렬(Confusion Matrix) 분석 결과:
-  - 1~5등급 분류에서 높은 정확도 달성
-  - 특히 1~3등급(응급 상황)과 4~5등급(비응급 상황) 구분에서 우수한 성능
+  + 1~5등급 분류에서 높은 정확도 달성
+  + 특히 1~3등급(응급 상황)과 4~5등급(비응급 상황) 구분에서 우수한 성능
     
 <div align="center">
   <img src="https://github.com/user-attachments/assets/9cb0bd09-52d9-43db-a1d0-d39108e709f9" alt="BERT 모델 혼동 행렬" width="800px" />
@@ -305,7 +335,8 @@
 </div>
 
 <br>
-## 🧠 프로젝트 배운 점
+
+## 💡 프로젝트 배운 점
 
 <div align="center">
   <table>
@@ -372,18 +403,12 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center"><b>이름1</b></td>
-      <td align="center"><b>이름2</b></td>
-      <td align="center"><b>이름3</b></td>
-      <td align="center"><b>이름4</b></td>
-      <td align="center"><b>이름5</b></td>
-    </tr>
-    <tr>
-      <td align="center">음성 인식 모듈 개발</td>
-      <td align="center">텍스트 요약 모듈 개발</td>
-      <td align="center">BERT 모델 파인튜닝</td>
-      <td align="center">응급실 추천 알고리즘 개발</td>
-      <td align="center">통합 파이프라인 구축</td>
+      <td align="center"><b>구종한</b></td>
+      <td align="center"><b>김예은</b></td>
+      <td align="center"><b>이대희</b></td>
+      <td align="center"><b>정재원</b></td>
+      <td align="center"><b>황유성</b></td>
+      <td align="center"><b>황은비</b></td>
     </tr>
   </table>
 </div>
@@ -393,5 +418,5 @@
 
 <div align="center">
   <p>본 프로젝트는 KT AIVLE School AI 트랙 미니프로젝트 6차로 진행되었습니다.</p>
-  <p>© 2025 KT AIVLE School 6기 AI 트랙 미니프로젝트</p>
+  <p>© 2024 KT AIVLE School 6기 AI 트랙 미니프로젝트</p>
 </div>
