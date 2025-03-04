@@ -106,7 +106,7 @@
 ### 📊 파이프라인 모듈화 구조
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/3f887855-72c4-4664-9135-55ca67e82cfb" alt="파이프라인 모듈화 구조" width="800px" />
+  <img src="https://github.com/user-attachments/assets/de35fd1d-2062-4262-a39c-872f040e5f4a" alt="파이프라인 모듈화 구조" width="800px" />
 </div>
 
 위 그림은 응급상황 자동 인식 및 응급실 연계 서비스의 전체 파이프라인을 보여줍니다. 각 모듈은 다음과 같은 역할을 수행합니다:
@@ -224,8 +224,8 @@
   - 정확도(Accuracy): 0.95 이상
   - 각 등급별 정밀도(Precision) 및 재현율(Recall): 0.90 이상
 - 혼동 행렬(Confusion Matrix) 분석 결과:
-  + 1~5등급 분류에서 높은 정확도 달성
-  + 특히 1~3등급(응급 상황)과 4~5등급(비응급 상황) 구분에서 우수한 성능
+  * 1~5등급 분류에서 높은 정확도 달성
+  * 특히 1-3등급(응급 상황)과 4-5등급(비응급 상황) 구분에서 우수한 성능
     
 <div align="center">
   <img src="https://github.com/user-attachments/assets/9cb0bd09-52d9-43db-a1d0-d39108e709f9" alt="BERT 모델 혼동 행렬" width="800px" />
