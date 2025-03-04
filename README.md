@@ -1,6 +1,6 @@
 # 🚨 응급상황 자동 인식 및 응급실 연계 서비스
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/867b8b2f-6a96-4834-b7d5-edc4426c6772" alt="응급상황 서비스 로고" width="500px" />
+  <img src="https://github.com/user-attachments/assets/867b8b2f-6a96-4834-b7d5-edc4426c6772" alt="응급상황 서비스 로고" width="800px" />
   <br><br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
@@ -74,19 +74,19 @@
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 15px;">
   <div style="flex: 1; min-width: 250px; border: 1px solid #ddd; border-radius: 8px; padding: 15px; background-color: #f9f9f9;">
-    <h4 align="center">⚡ 빠른 판단</h4>
+    <h4>⚡ 빠른 판단</h4>
     <p>응급 상황의 신속한 인식과 중증도 분류를 통해 생명을 구하는 골든타임 확보</p>
   </div>
   <div style="flex: 1; min-width: 250px; border: 1px solid #ddd; border-radius: 8px; padding: 15px; background-color: #f9f9f9;">
-    <h4 align="center">🚑 신속한 이송</h4>
+    <h4>🚑 신속한 이송</h4>
     <p>환자 상태와 위치에 맞는 최적의 응급실로 빠르게 이송하여 적시 치료 가능</p>
   </div>
   <div style="flex: 1; min-width: 250px; border: 1px solid #ddd; border-radius: 8px; padding: 15px; background-color: #f9f9f9;">
-    <h4 align="center">⚖️ 자원의 효율적 분배</h4>
+    <h4>⚖️ 자원의 효율적 분배</h4>
     <p>응급 등급에 따른 의료 자원의 효율적 활용으로 의료 시스템 최적화</p>
   </div>
   <div style="flex: 1; min-width: 250px; border: 1px solid #ddd; border-radius: 8px; padding: 15px; background-color: #f9f9f9;">
-    <h4 align="center">🗺️ 최적 경로 선택</h4>
+    <h4>🗺️ 최적 경로 선택</h4>
     <p>교통 상황을 고려한 최적의 응급실 추천으로 이송 시간 단축</p>
   </div>
 </div>
