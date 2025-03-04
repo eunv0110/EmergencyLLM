@@ -67,7 +67,7 @@
 본 프로젝트는 다음과 같은 3단계 절차로 구성되어 있습니다:
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/356d4114-74d4-419b-bb48-c39664ea94c5" alt="시스템 구성도" width="800px" />
+  <img src="https://github.com/user-attachments/assets/5411dc67-b0e7-4864-86f6-0b5331face20" alt="시스템 구성도" width="800px" />
 </div>
 
 1. **음성 인식 및 요약(1단계)**: 응급 전화 음성을 텍스트로 변환하고 핵심 정보 요약
@@ -185,8 +185,7 @@
   - 특히 1~3등급(응급 상황)과 4~5등급(비응급 상황) 구분에서 우수한 성능
     
 <div align="center">
-
-  <img src="https://github.com/user-attachments/assets/00d21121-856a-4cb0-8ed8-8a0636d97ec5" alt="BERT 모델 혼동 행렬" width="800px" />
+  <img src="https://github.com/user-attachments/assets/9cb0bd09-52d9-43db-a1d0-d39108e709f9" alt="BERT 모델 혼동 행렬" width="800px" />
 </div>
 
 <br>
