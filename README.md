@@ -90,6 +90,59 @@
   </div>
 </div>
 
+## 💻 기술 스택
+
+<div align="center">
+  <table>
+    <tr>
+      <th colspan="2" align="center">분류</th>
+      <th align="center">기술</th>
+      <th align="center">용도</th>
+    </tr>
+    <tr>
+      <td rowspan="3" width="10%">💻</td>
+      <td width="20%"><b>언어</b></td>
+      <td width="25%">Python</td>
+      <td width="45%">전체 프로젝트 개발</td>
+    </tr>
+    <tr>
+      <td><b>데이터 처리</b></td>
+      <td>Pandas, NumPy</td>
+      <td>데이터프레임 조작 및 전처리</td>
+    </tr>
+    <tr>
+      <td><b>시각화</b></td>
+      <td>Matplotlib, Seaborn</td>
+      <td>데이터 시각화 및 결과 표현</td>
+    </tr>
+    <tr>
+      <td rowspan="5">🤖</td>
+      <td rowspan="2"><b>API</b></td>
+      <td>OpenAI API</td>
+      <td>음성 인식(Whisper) 및 텍스트 요약(GPT)</td>
+    </tr>
+    <tr>
+      <td>NAVER Maps API</td>
+      <td>도로 거리 및 소요 시간 계산</td>
+    </tr>
+    <tr>
+      <td rowspan="3"><b>모델링</b></td>
+      <td>Transformers</td>
+      <td>BERT 모델 로딩 및 파인튜닝</td>
+    </tr>
+    <tr>
+      <td>PyTorch</td>
+      <td>딥러닝 모델 학습</td>
+    </tr>
+    <tr>
+      <td>Scikit-learn</td>
+      <td>데이터 전처리, 모델 평가</td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
 ## 🔍 시스템 구성
 
 본 프로젝트는 다음과 같은 3단계 절차로 구성되어 있습니다:
@@ -281,59 +334,6 @@
 ### 응급상황 판단 기준
 - **1~3등급 판정 시**: 응급상황인 것으로 판단하여 응급실로 이동 권고
 - **4~5등급 판정 시**: 응급상황이 아닌 것으로 판단하며, 증상 악화 시 응급실 이동 권고 또는 일반 의료기관 방문 권장
-
-<br>
-
-## 💻 기술 스택
-
-<div align="center">
-  <table>
-    <tr>
-      <th colspan="2" align="center">분류</th>
-      <th align="center">기술</th>
-      <th align="center">용도</th>
-    </tr>
-    <tr>
-      <td rowspan="3" width="10%">💻</td>
-      <td width="20%"><b>언어</b></td>
-      <td width="25%">Python</td>
-      <td width="45%">전체 프로젝트 개발</td>
-    </tr>
-    <tr>
-      <td><b>데이터 처리</b></td>
-      <td>Pandas, NumPy</td>
-      <td>데이터프레임 조작 및 전처리</td>
-    </tr>
-    <tr>
-      <td><b>시각화</b></td>
-      <td>Matplotlib, Seaborn</td>
-      <td>데이터 시각화 및 결과 표현</td>
-    </tr>
-    <tr>
-      <td rowspan="5">🤖</td>
-      <td rowspan="2"><b>API</b></td>
-      <td>OpenAI API</td>
-      <td>음성 인식(Whisper) 및 텍스트 요약(GPT)</td>
-    </tr>
-    <tr>
-      <td>NAVER Maps API</td>
-      <td>도로 거리 및 소요 시간 계산</td>
-    </tr>
-    <tr>
-      <td rowspan="3"><b>모델링</b></td>
-      <td>Transformers</td>
-      <td>BERT 모델 로딩 및 파인튜닝</td>
-    </tr>
-    <tr>
-      <td>PyTorch</td>
-      <td>딥러닝 모델 학습</td>
-    </tr>
-    <tr>
-      <td>Scikit-learn</td>
-      <td>데이터 전처리, 모델 평가</td>
-    </tr>
-  </table>
-</div>
 
 <br>
 
